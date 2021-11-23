@@ -1,0 +1,203 @@
+        .navbar {
+            width: 100%;
+            background-color: #1877f2;
+            height: 100px;
+            padding: 0;
+        }
+        
+        .tittle {
+            position: relative;
+            left: 150px;
+            top: 20px;
+            color: white;
+            font-size: 2.25em;
+        }
+        
+        body {
+            margin: 0;
+            padding: 0;
+        }
+        
+        .email {
+            position: relative;
+            color: white;
+            left: 668px;
+        }
+        
+        .password {
+            position: relative;
+            color: white;
+            left: 740px;
+        }
+        
+        .ine {
+            position: relative;
+            left: 800px;
+        }
+        
+        .inp {
+            position: relative;
+            left: 850px;
+        }
+        
+        .btm {
+            position: relative;
+            left: 880px;
+            -webkit-border-radius: 5px;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+            height: 16px;
+            line-height: 16px;
+            color: #FFFFFF;
+            font-family: Arial;
+            width: 58px;
+            font-size: 16px;
+            font-weight: 100;
+            padding: 7px;
+            background-color: #3D94F6;
+            -webkit-box-shadow: 1px 1px 20px 0 #000000;
+            -moz-box-shadow: 1px 1px 20px 0 #000000;
+            box-shadow: 1px 1px 20px 0 #000000;
+            text-shadow: 1px 1px 20px #000000;
+            text-decoration: none;
+            display: inline-block;
+            cursor: pointer;
+            text-align: center;
+        }
+        
+        .btm:hover {
+            border: solid #337FED 1px;
+            background: #1E62D0;
+            background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+            background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+            background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+            background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+            background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+            -webkit-border-radius: 16px;
+            -moz-border-radius: 16px;
+            border-radius: 16px;
+            text-decoration: none;
+        }
+        
+        .forgot {
+            position: relative;
+            left: 1030px;
+            color: black;
+            font-size: 18px;
+        }
+        
+        .signf {
+            background-image: linear-gradient(to right, rgb(190, 190, 190), white);
+            width: 100%;
+            height: 700px;
+        }
+        
+        .connect {
+            font-size: 1.55em;
+            position: relative;
+            top: 80px;
+            left: 100px;
+            color: #1877f2;
+        }
+        
+        .img {
+            position: absolute;
+            right: 900px;
+            width: 400;
+            height: 300px;
+            top: 250px;
+        }
+        
+        .create {
+            position: relative;
+            left: 220px;
+            top: 85px;
+            font-size: 3em;
+        }
+        
+        .quick {
+            position: relative;
+            left: 870px;
+            top: 80px;
+            font-size: 1.5em;
+        }
+        
+        .fname {
+            position: relative;
+            left: 670px;
+            top: 150px;
+            padding: 5px;
+        }
+        
+        .lname {
+            position: relative;
+            left: 670px;
+            top: 150px;
+            padding: 5px;
+        }
+        
+        .mobileoremail {
+            position: relative;
+            left: 309px;
+            top: 196px;
+            padding: 5px;
+            width: 343px;
+        }
+        
+        .npassword {
+            position: relative;
+            right: 53px;
+            top: 240px;
+            padding: 4px;
+            width: 343px;
+        }
+        
+        .dob {
+            position: relative;
+            left: 840px;
+            top: 260px;
+            font-size: 1.5em
+        }
+        
+        .gender {
+            position: relative;
+            left: 840px;
+            top: 240px;
+            padding: 6px;
+        }
+        
+        .gen {
+            font-size: 1.5em;
+        }
+        
+        .policy {
+            position: relative;
+            left: 840px;
+            top: 235px;
+        }
+        
+        .signup {
+            background-color: #44c767;
+            border-radius: 28px;
+            border: 1px solid #18ab29;
+            display: inline-block;
+            cursor: pointer;
+            color: #ffffff;
+            font-family: Arial;
+            font-size: 17px;
+            padding: 12px 22px;
+            text-decoration: none;
+            text-shadow: 0px 1px 0px #2ac213;
+            position: relative;
+            left: 940px;
+            top: 240px;
+        }
+        
+        .signup:hover {
+            background-color: #5cbf2a;
+        }
+        
+        .signup:active {
+            position: relative;
+            top: 1px;
+        }
